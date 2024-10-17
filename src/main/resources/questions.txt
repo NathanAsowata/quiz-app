@@ -1,0 +1,10 @@
+What is the color of the sky?,Blue;
+What is the largest planet in our solar system?,Jupiter;
+What is the smallest country in the world?,Vatican City;
+What is the largest mammal on Earth?,Blue Whale;
+What is the fastest land animal?,Cheetah;
+What is the highest mountain in the world?,Mount Everest;
+What is the deepest ocean?,Pacific Ocean;
+What is the driest desert in the world?,Atacama Desert;
+What is the longest river in the world?,Nile River;
+What is the hottest planet in our solar system?,Venus.
